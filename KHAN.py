@@ -1,5 +1,6 @@
 import os, platform, time, sys
 os.system('git pull')
+print('\033[1;32m Tools Is On Updating Please Wait...')
 exit()
 try: 
     import requests 
